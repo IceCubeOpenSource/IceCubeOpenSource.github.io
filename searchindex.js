@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index","skylab"],envversion:52,filenames:["index.rst","skylab.rst"],objects:{},objnames:{},objtypes:{},terms:{analysi:1,collabor:0,gather:0,icecub:[0,1],open:0,pointsourc:1,sever:0,skylab:0,softwar:1,sourc:0},titles:["About","SkyLab"],titleterms:{about:0,get:0,here:0,how:0,project:0,skylab:1}})
