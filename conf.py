@@ -102,6 +102,7 @@ html_theme_options = {
 html_static_path = ['_static']
 
 html_show_sourcelink = False
+html_short_title = 'IceCube Open Source'
 
 html_experimental_html5_writer = True
 
