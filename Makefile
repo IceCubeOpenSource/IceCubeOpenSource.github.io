@@ -5,8 +5,8 @@
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = IceCubeOpenSource
-SOURCEDIR     = _src
-BUILDDIR      = _src/_build
+SOURCEDIR     = .
+BUILDDIR      = _build
 
 .PHONY: all
 all: html
