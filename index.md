@@ -20,4 +20,4 @@ by the [IceCube Collaboration].
 foo
 
 
-[IceCube Collaboration]: http://icecube.wisc.edu
+[IceCube Collaboration]: https://icecube.wisc.edu
