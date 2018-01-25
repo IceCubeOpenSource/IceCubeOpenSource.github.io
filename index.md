@@ -45,8 +45,13 @@ If all that sounds like a lot of work for no gain, don't despair!
 Not only will we help guide you through this process, once a project
 is officially hosted we provide limited support for it:
 
-* Compiler support - as new compiler versions are released, we help fix bugs.
-* Help with CI / testing.
+* Compiler / library support - as new versions are released, we help fix
+  errors in your code.
+
+* Help with continuous integration / testing.
+
+* New maintainer locating - we'll help find someone new to maintain it
+  if you drop the project.
 
 [IceCube Collaboration]: https://icecube.wisc.edu
 
