@@ -10,21 +10,21 @@ layout: main
 
 1. Code is on GitHub
 
-  If your code is already on GitHub under a personal account, you can go
-  into settings and [transfer] it to `IceCubeOpenSource`.
+   If your code is already on GitHub under a personal account, you can go
+   into settings and [transfer] it to `IceCubeOpenSource`.
 
 1. Code is in SVN at code.icecube.wisc.edu
 
-  Tell us where it is located, and we can transfer the code into the
-  GitHub project.  Note that we do a best effort to transfer author
-  information for commits, but if your SVN and GitHub accounts have
-  different email addresses then they will not be associated unless
-  you tell us.
+   Tell us where it is located, and we can transfer the code into the
+   GitHub project.  Note that we do a best effort to transfer author
+   information for commits, but if your SVN and GitHub accounts have
+   different email addresses then they will not be associated unless
+   you tell us.
 
 1. Code is in some random directory
 
-  Tell us where to find it, or tar it up and send it to us.
-  With this method, you won't get any historical author information.
+   Tell us where to find it, or tar it up and send it to us.
+   With this method, you won't get any historical author information.
 
 ## Transferred repository ownership
 
