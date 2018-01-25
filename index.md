@@ -21,21 +21,14 @@ If you are a member of IceCube and want your project to appear here,
 follow these steps:
 
 1. Contact us
-
 .. Talk to the software group (email, slack).  If you don't want to
 .. tell everyone yet, send a message to the software coordinator.
-
 1. Code review
-
 .. A [limited code review](code_review.html) must be performed to ensure
 .. a basic level of quality.
-
 1. Licensing
-
 .. Pick one of the popular [open sources licenses](https://choosealicense.com/).
-
 1. Transfer repository to [IceCubeOpenSource].
-
 .. The final step is to [move the source code](transfer.html) to an
 .. official project under this organization.
 
