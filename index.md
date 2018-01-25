@@ -13,6 +13,8 @@ by the [IceCube Collaboration].
 
 ## Projects
 
+* [mem-scope-track](https://github.com/IceCubeOpenSource/mem-scope-track)
+
 * [SkyLab](https://github.com/IceCubeOpenSource/skylab)
 
 ### How do I get my project here?
