@@ -8,6 +8,9 @@ layout: main
 
 ## Transferring Code
 
+1. Request and accept an invite to join the organization.  You'll need permission to
+   create repositories in our organization to transfer the repository.
+
 1. Code is on GitHub
 
    If your code is already on GitHub under a personal account, you can go
@@ -28,9 +31,9 @@ layout: main
 
 ## Transferred repository ownership
 
-Once code is transferred, you should become a member of [IceCubeOpenSource]
-so we can assign you as the maintainer of the project.  Just tell us
-your GitHub username and we can take care of the rest.
+Once code is transferred [IceCubeOpenSource] let us know, so we can assign
+you as the maintainer of the project.  Just tell us your GitHub username and
+we can take care of the rest.
 
 
 [transfer]: https://help.github.com/articles/transferring-a-repository-owned-by-your-personal-account/#transferring-a-repository-to-another-user-account-or-to-an-organization
